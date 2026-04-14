@@ -5,7 +5,7 @@ Welcome to the unofficial fan translation repository for **Nine Revolutions Star
 ## About the Novel
 
 -   **Original Title:** 九转星辰诀
--   **Author:** Chen Yi (晨弈)
+-   **Author:** Wode Goupi Gaoyao (我的狗皮膏药)
 -   **Genre:** Action, Eastern Fantasy, Martial Arts, Reincarnation, Xuanhuan
 -   **Chapters:** 3,793 (Completed)
 -   **Original Source:** [[17k.com]](https://www.17k.com/book/3411307.html)
@@ -68,7 +68,7 @@ If you have a suggestion for a term, you can [open an Issue](../../issues) to di
 
 ## Disclaimer
 
-This is a **fan translation** project. All copyrights for _Nine Revolutions Star Technique_ belong to the original author, **Chen Yi (晨弈)**. The translation is done by fans for fans and is not for any commercial purpose.
+This is a **fan translation** project. All copyrights for _Nine Revolutions Star Technique_ belong to the original author, **Wode Goupi Gaoyao (我的狗皮膏药)**. The translation is done by fans for fans and is not for any commercial purpose.
 
 If you enjoy the novel, please support the author by purchasing the original work on their official platform.
 
