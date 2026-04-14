@@ -1,0 +1,114 @@
+[
+    {
+        "en": "Han Yang",
+        "cn": "韩阳",
+        "pinyin": "Hán Yáng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1
+    },
+    {
+        "en": "Chen Qiaoqian",
+        "cn": "陈巧倩",
+        "pinyin": "Chén Qiǎoqiàn",
+        "type": "Person",
+        "gender": "Female",
+        "file": 1
+    },
+    {
+        "en": "Nine Revolutions Star Technique",
+        "cn": "九转星辰诀",
+        "pinyin": "Jiǔzhuǎn Xīngchén Jué",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "Body Tempering",
+        "cn": "淬体",
+        "pinyin": "cuìtǐ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "Bone Forging",
+        "cn": "锻骨",
+        "pinyin": "duàngǔ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "Spirit Gathering",
+        "cn": "聚灵",
+        "pinyin": "jùlíng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "Origin Core",
+        "cn": "元丹",
+        "pinyin": "yuándān",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "dantian",
+        "cn": "丹田",
+        "pinyin": "dāntián",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "meridians",
+        "cn": "经脉",
+        "pinyin": "jīngmài",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "spiritual energy",
+        "cn": "灵气",
+        "pinyin": "língqì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "spiritual energy of heaven and earth",
+        "cn": "天地灵气",
+        "pinyin": "tiāndì língqì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "Qi-Boosting Pill",
+        "cn": "益气丹",
+        "pinyin": "yìqì dān",
+        "type": "Item",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "cultivation",
+        "cn": "修炼",
+        "pinyin": "xiūliàn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "cultivation base",
+        "cn": "修为",
+        "pinyin": "xiūwéi",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1
+    }
+]
