@@ -246,5 +246,13 @@
         "type": "Concept/Term",
         "gender": null,
         "file": 2
+    },
+    {
+        "en": "Wang Manor",
+        "cn": "王府",
+        "pinyin": "Wáng Fǔ",
+        "type": "Place",
+        "gender": null,
+        "file": 3
     }
 ]
