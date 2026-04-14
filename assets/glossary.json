@@ -1,18 +1,26 @@
 [
     {
-        "en": "Han Yang",
-        "cn": "韩阳",
-        "pinyin": "Hán Yáng",
+        "en": "Su Yang",
+        "cn": "苏阳",
+        "pinyin": "Sū Yáng",
         "type": "Person",
         "gender": "Male",
         "file": 1
     },
     {
-        "en": "Chen Qiaoqian",
-        "cn": "陈巧倩",
-        "pinyin": "Chén Qiǎoqiàn",
+        "en": "Wang Yiyi",
+        "cn": "王依依",
+        "pinyin": "Wáng Yīyī",
         "type": "Person",
         "gender": "Female",
+        "file": 1
+    },
+    {
+        "en": "Wang Lang",
+        "cn": "王朗",
+        "pinyin": "Wáng Lǎng",
+        "type": "Person",
+        "gender": "Male",
         "file": 1
     },
     {
@@ -24,33 +32,129 @@
         "file": 1
     },
     {
-        "en": "Body Tempering",
-        "cn": "淬体",
-        "pinyin": "cuìtǐ",
+        "en": "Eastern Xuan Continent",
+        "cn": "东玄大陆",
+        "pinyin": "Dōng Xuán Dàlù",
+        "type": "Place",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "Yebei City",
+        "cn": "叶北城",
+        "pinyin": "Yè Běi Chéng",
+        "type": "Place",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "Demonic Beast Mountain Range",
+        "cn": "妖兽山脉",
+        "pinyin": "Yāoshòu Shānmài",
+        "type": "Place",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "City Lord's Manor",
+        "cn": "城主府",
+        "pinyin": "Chéngzhǔ Fǔ",
+        "type": "Place",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "Su Family",
+        "cn": "苏家",
+        "pinyin": "Sū Jiā",
+        "type": "Group",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "Wang Family",
+        "cn": "王家",
+        "pinyin": "Wáng Jiā",
+        "type": "Group",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "Spirit Transformation Realm",
+        "cn": "化灵境",
+        "pinyin": "Huà Líng Jìng",
         "type": "Concept/Term",
         "gender": null,
         "file": 1
     },
     {
-        "en": "Bone Forging",
-        "cn": "锻骨",
-        "pinyin": "duàngǔ",
+        "en": "True Martial Realm",
+        "cn": "真武境",
+        "pinyin": "Zhēn Wǔ Jìng",
         "type": "Concept/Term",
         "gender": null,
         "file": 1
     },
     {
-        "en": "Spirit Gathering",
-        "cn": "聚灵",
-        "pinyin": "jùlíng",
+        "en": "Triple Profound Realm",
+        "cn": "三玄境",
+        "pinyin": "Sān Xuán Jìng",
         "type": "Concept/Term",
         "gender": null,
         "file": 1
     },
     {
-        "en": "Origin Core",
-        "cn": "元丹",
-        "pinyin": "yuándān",
+        "en": "Divine Martial Realm",
+        "cn": "神武境",
+        "pinyin": "Shén Wǔ Jìng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "Perfection",
+        "cn": "圆满",
+        "pinyin": "Yuánmǎn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "Supreme Bloodline",
+        "cn": "至尊血脉",
+        "pinyin": "Zhìzūn Xuèmài",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "Fire Phoenix Bloodline",
+        "cn": "火凤血脉",
+        "pinyin": "Huǒ Fèng Xuèmài",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "Supreme Fire Phoenix Bloodline",
+        "cn": "至尊火凤血脉",
+        "pinyin": "Zhìzūn Huǒ Fèng Xuèmài",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "blood slave",
+        "cn": "血奴",
+        "pinyin": "Xuè Nú",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "Grand Elder",
+        "cn": "大长老",
+        "pinyin": "Dà Zhǎnglǎo",
         "type": "Concept/Term",
         "gender": null,
         "file": 1
@@ -72,26 +176,18 @@
         "file": 1
     },
     {
+        "en": "Eight Extraordinary Meridians",
+        "cn": "奇经八脉",
+        "pinyin": "Qí Jīng Bā Mài",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1
+    },
+    {
         "en": "spiritual energy",
         "cn": "灵气",
         "pinyin": "língqì",
         "type": "Concept/Term",
-        "gender": null,
-        "file": 1
-    },
-    {
-        "en": "spiritual energy of heaven and earth",
-        "cn": "天地灵气",
-        "pinyin": "tiāndì língqì",
-        "type": "Concept/Term",
-        "gender": null,
-        "file": 1
-    },
-    {
-        "en": "Qi-Boosting Pill",
-        "cn": "益气丹",
-        "pinyin": "yìqì dān",
-        "type": "Item",
         "gender": null,
         "file": 1
     },
@@ -108,6 +204,22 @@
         "cn": "修为",
         "pinyin": "xiūwéi",
         "type": "Concept/Term",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "Soul-Suppressing Iron Chains",
+        "cn": "镇魂铁锁",
+        "pinyin": "Zhènhún Tiěsuǒ",
+        "type": "Item",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "jade vial",
+        "cn": "玉瓶",
+        "pinyin": "Yù Píng",
+        "type": "Item",
         "gender": null,
         "file": 1
     }
