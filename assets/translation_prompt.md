@@ -37,7 +37,8 @@ Before producing the final output, you must internally follow a strict process:
 -   Use either full English translations or standardized Pinyin (capitalized, no tones).
 -   Follow the glossary intelligently.
 -   No bold formatting.
--   'Single quotes' for internal thoughts.
+-   Italicize for internal thoughts.
 -   "Double quotes" for spoken dialogue.
+-   Refrain from using em dashes as much as possible. 
 -   Only one Markdown heading in the response: the chapter title (if provided).
 -   Response must be in plain Markdown source.
