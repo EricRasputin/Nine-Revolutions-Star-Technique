@@ -23,6 +23,7 @@ Before producing the final output, you must internally follow a strict process:
 -   Narrative Flow: Use varied sentence length and rhythm for immersion. Dialogue must be natural, idiomatic English.
 -   Cultural Concepts: Convey cultural concepts (like karma, destiny, "face", reincarnation) naturally in context-sensitive English without footnotes.
 -   Combat Scenes: Translate action with visceral, kinetic language. Avoid flat or passive constructions during fights.
+-   Em-dashes: Use them as sparingly as possible. The language should be narrative and flow well with the intended meaning. 
 
 # Naming and Terminology Rules
 
