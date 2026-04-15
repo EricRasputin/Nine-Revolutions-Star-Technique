@@ -254,5 +254,21 @@
         "type": "Place",
         "gender": null,
         "file": 3
+    },
+    {
+        "en": "Battle Sage Art",
+        "cn": "斗战圣法",
+        "pinyin": "Dòu Zhàn Shèng Fǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 4
+    },
+    {
+        "en": "divine sense",
+        "cn": "神识",
+        "pinyin": "shénshí",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 4
     }
 ]
