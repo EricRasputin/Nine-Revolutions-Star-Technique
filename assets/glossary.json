@@ -270,5 +270,45 @@
         "type": "Concept/Term",
         "gender": null,
         "file": 4
+    },
+    {
+        "en": "Su Beilou",
+        "cn": "苏北楼",
+        "pinyin": "Sū Běi Lóu",
+        "type": "Person",
+        "gender": "Male",
+        "file": 5
+    },
+    {
+        "en": "Li Beiye",
+        "cn": "李北叶",
+        "pinyin": "Lǐ Běi Yè",
+        "type": "Person",
+        "gender": "Male",
+        "file": 5
+    },
+    {
+        "en": "Third Prince",
+        "cn": "三皇子",
+        "pinyin": "Sān Huángzǐ",
+        "type": "Person",
+        "gender": "Male",
+        "file": 5
+    },
+    {
+        "en": "Great Xia Dynasty",
+        "cn": "大夏皇朝",
+        "pinyin": "Dà Xià Huáng Cháo",
+        "type": "Group",
+        "gender": null,
+        "file": 5
+    },
+    {
+        "en": "Moongazing Sect",
+        "cn": "望月宗",
+        "pinyin": "Wàng Yuè Zōng",
+        "type": "Group",
+        "gender": null,
+        "file": 5
     }
 ]
