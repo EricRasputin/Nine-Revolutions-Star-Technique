@@ -310,5 +310,13 @@
         "type": "Group",
         "gender": null,
         "file": 5
+    },
+    {
+        "en": "Lightning Leopard",
+        "cn": "闪电豹",
+        "pinyin": "Shǎndiàn Bào",
+        "type": "Creature",
+        "gender": null,
+        "file": 6
     }
 ]
