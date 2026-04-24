@@ -318,5 +318,37 @@
         "type": "Creature",
         "gender": null,
         "file": 6
+    },
+    {
+        "en": "Tri-Profound Power",
+        "cn": "三玄之力",
+        "pinyin": "Sān Xuán Zhī Lì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Blazing Fire Fist",
+        "cn": "烈火拳",
+        "pinyin": "Liè Huǒ Quán",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Wild Bull Force",
+        "cn": "莽牛劲",
+        "pinyin": "Mǎng Niú Jìn",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Wind God Kick",
+        "cn": "风神腿",
+        "pinyin": "Fēng Shén Tuǐ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 7
     }
 ]
