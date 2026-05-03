@@ -23,9 +23,9 @@ Everything below sits underneath these two rules.
 
 ## Mindset: What You Are Actually Doing
 
-You are not the author. The author is Chen Yi (晨弈). You are not the translator either — that was the AI.
+You are not the author. The author is My Dog-Skin Plaster (我的狗皮膏药). You are not the translator either — that was the AI.
 
-You are the **editor**. Your job is to be invisible. The reader should feel Chen Yi's voice, not yours. When you finish a chapter, a reader should not be able to point at any sentence and say "an editor changed that." They should just feel that the prose flows.
+You are the **editor**. Your job is to be invisible. The reader should feel the author's voice, not yours. When you finish a chapter, a reader should not be able to point at any sentence and say "an editor changed that." They should just feel that the prose flows.
 
 That means:
 
