@@ -53,7 +53,7 @@ Read the chapter once for accuracy only. You are not yet thinking about prose qu
 -   **Names match the glossary.** Every character name, sect name, technique name, place name, and item should resolve to its glossary entry. If a name appears that is not in the glossary, flag it for Step 5 of `TRANSLATING.md` (glossary update).
 -   **Pronouns match gender.** Chinese 他/她/它 collapses in speech and the AI guesses. Cross-check every he/she/it against the glossary's `gender` field. This is the single most common AI translation error.
 -   **Numbers, ranks, and counts.** "Three hundred" vs. "thirty," "Seventh Elder" vs. "Elder Seven," "fifth realm" vs. "fifth stage" — verify against the raw.
--   **Internal vs. spoken.** Internal thoughts should be in `'single quotes'`. Spoken dialogue should be in `"double quotes"`. The AI sometimes mixes them up, especially when a character mutters to themselves.
+-   **Internal vs. spoken.** Internal thoughts should be in `*italics*`. Spoken dialogue should be in `"double quotes"`. The AI sometimes mixes them up, especially when a character mutters to themselves.
 
 This pass is mechanical and slow. Don't rush it — every fidelity error caught here saves a reader-reported issue later.
 
@@ -240,7 +240,7 @@ Below are the project's standing style decisions. When you make a new judgment c
 ### Quotation conventions
 
 -   `"Double quotes"` for spoken dialogue.
--   `'Single quotes'` for unspoken internal thoughts.
+-   `*Italics*` for unspoken internal thoughts.
 -   Punctuation inside the closing quote (US convention).
 
 ### Names and terms
@@ -261,7 +261,7 @@ Below are the project's standing style decisions. When you make a new judgment c
 ### Formatting
 
 -   No bold in the body text.
--   Italics: only for emphasis on a single word, or for an internal thought rendered without quote marks (rare — prefer single quotes). Do not italicize Pinyin terms or sect names.
+-   Italics: for unspoken internal thoughts (the default — see Quotation conventions above), or for emphasis on a single word. Do not italicize Pinyin terms or sect names.
 -   One Markdown heading per file: the chapter title (`# Chapter N: Title`).
 -   Navigation block at the top, exactly as in the template.
 
@@ -286,7 +286,7 @@ Run this checklist on every chapter before committing.
 -   [ ] No tone marks on Pinyin (no `Hán Yáng`).
 -   [ ] All character names match the glossary.
 -   [ ] All pronouns match the glossary's `gender` field.
--   [ ] Internal thoughts use `'single quotes'`; speech uses `"double quotes"`.
+-   [ ] Internal thoughts use `*italics*`; speech uses `"double quotes"`.
 -   [ ] No "very," "really," "quite," "actually" survives unless load-bearing.
 -   [ ] No `-ly` adverb survives where a stronger verb exists.
 -   [ ] No "made the X / had the X / gave a X" verb-as-noun unless deliberate.
