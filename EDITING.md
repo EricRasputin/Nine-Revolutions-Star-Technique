@@ -41,6 +41,10 @@ A useful test: if you removed your edit and showed the before/after to a reader 
 
 Edit in passes, not all at once. Every pass has a different focus, and trying to do them simultaneously is how mistakes slip through.
 
+**Each pass is a top-to-bottom read of the entire chapter.** Do not shortcut by scanning for the category of issue listed in each pass and stopping when you've checked the boxes. The worst sentences hide in benign-looking paragraphs the category-scan never re-reads. If you finish a pass without having read every line, you have not done the pass — you have done a search. The difference shows up as reader-flagged awkward prose after commit.
+
+A useful test: count the number of sentences you actually re-read during the pass. If the number is materially smaller than the chapter's sentence count, you scanned. Go back.
+
 ### Pass 1 — Fidelity Check (read with the raw open)
 
 Open the raw file (`raws/N.md`) and the translated draft (`translations/N.md`) side by side.
@@ -201,6 +205,10 @@ Combat is where AI prose dies. Sentences flatten into "He attacked. The enemy bl
 
 Restraint: if the raw doesn't have the detail, don't add it. The line is "make the language match the energy of what's already there," not "add things that aren't there."
 
+**Weapon-shadow saturation.** Chinese uses 棍影 / 剑影 / 拳影 ("staff-shadow," "sword-shadow," "fist-shadow") to mean the visual blur of fast strikes. The literal "staff afterimages" rendering reads OK once but turns mechanical by the third use. Vary across the scene: "blur of staff motion," "storm of strikes," "flurry of blows," "the staff blurring with strikes too fast to track." Cap "afterimages" at one use per fight, used to establish the imagery, then switch off it.
+
+**Pre-echo trap.** When the chapter contains a beast or element with "lightning," "thunder," "fire," "ice," or "blood" in its name, do not use that word as a metaphor for unrelated things in the same chapter. "Lightning-quick reflexes" three paragraphs before a Purple Lightning Mad Lion appears reads as if the prose is foreshadowing connection that does not exist. Pick a different metaphor: "instant," "razor-sharp," "in a flash without using the word."
+
 #### 2m. Dialogue
 
 -   Each speaker gets their own paragraph. The AI sometimes packs two speakers into one paragraph; split them.
@@ -250,6 +258,21 @@ Below are the project's standing style decisions. When you make a new judgment c
 -   Cultivation techniques: glossary translation; otherwise translate the meaning into evocative English (`Nine Revolutions Star Technique`).
 -   Honorifics: English equivalents — `Senior`, `Elder`, `Young Master`, `Patriarch`, `Senior Sister`. Capitalized when used as a title before a name (`Elder Wang`), lowercase when used generically (`an elder of the sect`).
 -   Family / clan / house: when the glossary names a group as `X Family` (e.g., `Su Family`, `Wang Family`), use `Family` consistently for that group. Do not switch to `clan` or `house` mid-chapter — those words have different connotations in English and create the impression of distinct entities. If a generic reference is needed and `Family` would echo awkwardly, prefer dropping the noun (`a puppet of the Wang Family`) over substituting a synonym.
+-   Beast/cultivator ranks: `品` renders as `rank-N` (`rank-four demonic beast`, `rank-six beast`). Established by chapters 2 and 6. Don't introduce `grade` or `tier` for the same concept.
+
+### Aura and presence terms
+
+Chinese xianxia stacks several closely-related terms for "aura/presence" that the AI tends to translate inconsistently. The project's settled renderings:
+
+-   **战斗气息** → `combat aura`, not `battle aura`. "Battle aura" reads videogame-y in English; "combat aura" carries the same meaning with a more grounded register. Re-use across chapters even when the source phrase varies in modifier (`强大的战斗气息` → `powerful combat aura`, `肆虐的战斗气息` → `savage combat aura`).
+-   **战意** → `fighting spirit` (preferred), `battle intent` (acceptable but flatter). "The fighting spirit hadn't faded" reads more naturally than "the battle intent hadn't ebbed."
+-   **王者之威 / 王霸之气** → `the pressure of a king` / `domineering aura`. These are bare noun phrases in Chinese (subject + descriptor) often presented as a standalone atmospheric line. **Do not render as a bare English fragment** ("Kingly might, fearsome to behold."). Convert to a complete sentence: "The pressure of a king rolled off it, fearsome to face." The fragment reads as marketing copy in English even when it lands as poetic punch in Chinese.
+-   **杀气** → `killing intent` (standard xianxia rendering, well-established).
+-   **气势** → `presence` or `momentum` depending on context — physical bearing vs forward force.
+
+### Imagery word echo (the "lightning-quick" trap)
+
+When a chapter introduces a beast or element with `lightning`, `thunder`, `fire`, `ice`, `wind`, or `blood` in its name, scan the rest of the chapter for that word used as an unrelated metaphor and replace it. `Lightning-quick reflexes` three paragraphs before a `Purple Lightning Mad Lion` appears reads as if the prose is foreshadowing a connection that doesn't exist. Substitutes: `instant`, `razor-sharp`, `in a flash`, `lightning` → `electric` (when the meaning is "energetic," not "fast").
 
 ### English economy
 
