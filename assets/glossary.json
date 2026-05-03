@@ -256,6 +256,14 @@
         "file": 3
     },
     {
+        "en": "Su Manor",
+        "cn": "苏府",
+        "pinyin": "Sū Fǔ",
+        "type": "Place",
+        "gender": null,
+        "file": 2
+    },
+    {
         "en": "Battle Sage Art",
         "cn": "斗战圣法",
         "pinyin": "Dòu Zhàn Shèng Fǎ",

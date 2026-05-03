@@ -240,7 +240,7 @@ Below are the project's standing style decisions. When you make a new judgment c
 ### Quotation conventions
 
 -   `"Double quotes"` for spoken dialogue.
--   `*Italics*` for unspoken internal thoughts.
+-   `*Italics*` for unspoken internal thoughts. Render in **first-person, present tense** (free direct interior monologue) — `*Am I really going to give up like this?*`, not `*Was he really going to give up like this?*`. The Chinese 自己 is reflexive and can map either way; first-person present is the project default because it keeps the immediacy of an interior voice.
 -   Punctuation inside the closing quote (US convention).
 
 ### Names and terms
