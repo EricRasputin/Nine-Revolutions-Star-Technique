@@ -2,6 +2,8 @@
 
 This document explains, step by step, how to produce a first-draft English chapter from the raw Chinese.
 
+The workflow is performed by **Claude Code reading this repo**. You do not need to copy-paste prompts or the glossary into a separate AI chat. Provide the raw Chinese (paste it in chat or point at `raws/N.md`) and Claude Code will load the translation prompt, glossary, and editing checklist from disk and run the steps below.
+
 The output of this workflow is a **draft**, not a finished chapter. Once you have a draft saved in `translations/N.md`, switch to [`EDITING.md`](./EDITING.md) for the editing passes that turn the AI draft into a publishable chapter. Do not commit a chapter until it has been through the editing workflow.
 
 ---
@@ -17,27 +19,20 @@ The output of this workflow is a **draft**, not a finished chapter. Once you hav
 
 ---
 
-## Step 2: Prepare the AI prompt
+## Step 2: Run the translation
 
-When you send the chapter to your AI translator (e.g., Claude, ChatGPT), you need to give it three things in this order:
+The translation pass is performed by Claude Code, using two files in this repo:
 
-1.  **The system/translation prompt** — Copy the contents of `assets/translation_prompt.md` and paste it as the system prompt or at the start of your message. This tells the AI *how* to translate.
+-   [`assets/translation_prompt.md`](./assets/translation_prompt.md) — the system prompt. Translation principles, fidelity constraints, style directives, naming rules, and output format. Treat this as the operating instructions for any translation pass.
+-   [`assets/glossary.json`](./assets/glossary.json) — the term dictionary. Characters, sects, places, techniques, items, ranks. Ensures consistency across chapters.
 
-2.  **The glossary** — Copy the contents of `assets/glossary.json` (or the relevant portion of it) and include it. This tells the AI *what terms to use*. For early chapters, the entire glossary will be small. As it grows to thousands of entries, you may want to filter it to only include terms from nearby chapters.
+Do not paste either file into the conversation. Claude Code reads both from disk when it sees a translation task. To translate a chapter, just say something like:
 
-3.  **The raw chapter text** — Paste the Chinese text from the raw file.
+> Translate `raws/7.md`.
 
-**Example message to AI:**
+…or paste the raw Chinese directly into chat. Claude Code will load `translation_prompt.md` and `glossary.json`, run the translation, and produce the draft. Keeping the prompt and glossary as files (not inline pasted text) means edits to them take effect on every future chapter automatically.
 
-```
-[Paste translation_prompt.md here]
-
-## Glossary
-[Paste glossary.json here]
-
-## Chapter to Translate
-[Paste Chinese chapter text here]
-```
+If a single chapter needs extra guidance (e.g., "this is a flashback — keep the prose more contemplative"), add that as a one-line note in your message. Treat it as an addendum to `translation_prompt.md`, not a replacement.
 
 ---
 
@@ -89,11 +84,19 @@ You should re-enter this `TRANSLATING.md` workflow at Step 6 (glossary update) o
 
 ## Step 6: Update the glossary
 
-After translating a chapter, check if any new terms appeared (new characters, places, techniques, items). If so:
+The glossary update follows the same handoff pattern as Step 2. The schema and instructions live in [`assets/glossary_prompt.txt`](./assets/glossary_prompt.txt) — Claude Code reads this from disk, you don't need to paste it.
 
-1.  Use `assets/glossary_prompt.txt` — paste it after your translation and ask the AI to output the new terms in glossary format.
-2.  Copy the new entries and add them to `assets/glossary.json`.
-3.  Make sure each entry has: `en`, `cn`, `pinyin`, `type`, `gender`, and `file` (the chapter number where it first appeared).
+Just say:
+
+> Update the glossary for chapter N.
+
+Claude Code will:
+
+1.  Load `assets/glossary_prompt.txt` for the entry schema.
+2.  Diff the chapter against `assets/glossary.json` to find genuinely new terms (new characters, places, techniques, items, ranks).
+3.  Append the new entries to `assets/glossary.json`, ensuring each has `en`, `cn`, `pinyin`, `type`, `gender`, and `file` (the chapter number where it first appeared).
+
+Skip this step only if you've already verified no new terms appeared in the chapter.
 
 ---
 
