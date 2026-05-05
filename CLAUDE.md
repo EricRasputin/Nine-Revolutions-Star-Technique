@@ -1,4 +1,4 @@
-# Project: Nine Revolutions Star Technique — English Fan Translation
+# Project: Nine Revolutions Star Scripture — English Fan Translation
 
 This repo contains the raw Chinese chapters (`raws/N.md`), English translations (`translations/N.md`), and the assets that drive the translation pipeline (`assets/`).
 

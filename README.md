@@ -1,6 +1,6 @@
-# Nine Revolutions Star Technique (九转星辰诀) - English Translation
+# Nine Revolutions Star Scripture (九转星辰诀) - English Translation
 
-Welcome to the unofficial fan translation repository for **Nine Revolutions Star Technique**! This project uses AI-assisted translation to provide high-quality English translations of the novel.
+Welcome to the unofficial fan translation repository for **Nine Revolutions Star Scripture**! This project uses AI-assisted translation to provide high-quality English translations of the novel.
 
 ## About the Novel
 
@@ -12,7 +12,7 @@ Welcome to the unofficial fan translation repository for **Nine Revolutions Star
 
 ### Synopsis
 
-A great emperor is reborn as a powerless, scorned son-in-law — but he carries the awakened memories of nine lifetimes. Peerless geniuses and ancient prodigies? Mere stepping stones on his path. With the mysterious Nine Revolutions Star Technique in hand, he devours the spiritual energy of heaven and earth, forging an unstoppable rise through the realms. Sword in hand, he crushes all who stand before him across ten thousand worlds.
+A great emperor is reborn as a powerless, scorned son-in-law — but he carries the awakened memories of nine lifetimes. Peerless geniuses and ancient prodigies? Mere stepping stones on his path. With the mysterious Nine Revolutions Star Scripture in hand, he devours the spiritual energy of heaven and earth, forging an unstoppable rise through the realms. Sword in hand, he crushes all who stand before him across ten thousand worlds.
 
 ### Translation Scope & Status
 
@@ -77,7 +77,7 @@ If you want to translate or edit a chapter:
 
 ## Disclaimer
 
-This is a **fan translation** project. All copyrights for _Nine Revolutions Star Technique_ belong to the original author, **My Dog-Skin Plaster (我的狗皮膏药)**. The translation is done by fans for fans and is not for any commercial purpose.
+This is a **fan translation** project. All copyrights for _Nine Revolutions Star Scripture_ belong to the original author, **My Dog-Skin Plaster (我的狗皮膏药)**. The translation is done by fans for fans and is not for any commercial purpose.
 
 If you enjoy the novel, please support the author by purchasing the original work on their official platform.
 

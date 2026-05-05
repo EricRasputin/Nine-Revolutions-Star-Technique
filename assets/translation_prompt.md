@@ -29,7 +29,7 @@ Before producing the final output, you must internally follow a strict process:
 
 -   Personal Names: Remain in Pinyin without tonal marks (e.g., Han Yang, Chen Qiaoqian).
 -   Place Names & Generic Titles: Translate descriptive names into English (e.g., 青云宗 → Azure Cloud Sect), unless overridden by glossary.
--   Cultivation Techniques: Use the glossary translation. If no glossary entry exists, translate the meaning into evocative English (e.g., 九转星辰诀 → Nine Revolutions Star Technique).
+-   Cultivation Techniques: Use the glossary translation. If no glossary entry exists, translate the meaning into evocative English (e.g., 九转星辰诀 → Nine Revolutions Star Scripture).
 -   Honorifics & Titles: Translate into English equivalents. Use "Senior," "Elder," "Young Master," "Patriarch," etc. as appropriate to context.
 
 # Output & Formatting Rules

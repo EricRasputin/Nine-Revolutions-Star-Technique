@@ -81,7 +81,7 @@ Chinese has no articles. The AI guesses, and it guesses badly under pressure.
     > Cultivation is difficult. / He spoke to Elder Wang.
 -   Use `an` before a vowel **sound**, not letter: an hour, a unicorn.
 
-Symptoms to fix: "He took out *a* Nine Revolutions Star Technique" (it is *the* unique technique). "She entered *the* sect" when no specific sect has been named yet should usually be "*a* sect." "Han Yang is *firefighter*" → "Han Yang is *a* firefighter."
+Symptoms to fix: "He took out *a* Nine Revolutions Star Scripture" (it is *the* unique scripture). "She entered *the* sect" when no specific sect has been named yet should usually be "*a* sect." "Han Yang is *firefighter*" → "Han Yang is *a* firefighter."
 
 #### 2b. Singular / plural
 
@@ -286,7 +286,7 @@ Below are the project's standing style decisions. When you make a new judgment c
 
 -   Personal names: Pinyin, no tone marks, capitalized syllables joined: `Han Yang`, `Chen Qiaoqian`. Two-syllable given names are run together: `Qiaoqian` not `Qiao Qian`.
 -   Place names and sects: translated unless the glossary overrides — `Azure Cloud Sect`, `Heavenly Wind City`.
--   Cultivation techniques: glossary translation; otherwise translate the meaning into evocative English (`Nine Revolutions Star Technique`).
+-   Cultivation techniques: glossary translation; otherwise translate the meaning into evocative English (`Nine Revolutions Star Scripture`).
 -   Honorifics: English equivalents — `Senior`, `Elder`, `Young Master`, `Patriarch`, `Senior Sister`. Capitalized when used as a title before a name (`Elder Wang`), lowercase when used generically (`an elder of the sect`).
 -   Family / clan / house: when the glossary names a group as `X Family` (e.g., `Su Family`, `Wang Family`), use `Family` consistently for that group. Do not switch to `clan` or `house` mid-chapter — those words have different connotations in English and create the impression of distinct entities. If a generic reference is needed and `Family` would echo awkwardly, prefer dropping the noun (`a puppet of the Wang Family`) over substituting a synonym.
 -   Beast/cultivator ranks: `品` renders as `rank-N` (`rank-four demonic beast`, `rank-six beast`). Established by chapters 2 and 6. Don't introduce `grade` or `tier` for the same concept.
