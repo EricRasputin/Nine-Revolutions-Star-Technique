@@ -422,5 +422,29 @@
         "type": "Person",
         "gender": "Male",
         "file": 12
+    },
+    {
+        "en": "Tri-Profound qi",
+        "cn": "三玄之气",
+        "pinyin": "Sān Xuán Zhī Qì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 14
+    },
+    {
+        "en": "Poison Butterfly Spirit Crystal Lizard",
+        "cn": "毒蝶灵晶蜴",
+        "pinyin": "Dú Dié Líng Jīng Yì",
+        "type": "Creature",
+        "gender": null,
+        "file": 14
+    },
+    {
+        "en": "monster",
+        "cn": "妖孽",
+        "pinyin": "yāo niè",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 14
     }
 ]
