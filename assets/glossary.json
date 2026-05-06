@@ -446,5 +446,29 @@
         "type": "Concept/Term",
         "gender": null,
         "file": 14
+    },
+    {
+        "en": "Su Shaofeng",
+        "cn": "苏少锋",
+        "pinyin": "Sū Shàofēng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 15
+    },
+    {
+        "en": "Blazing Flame Horse",
+        "cn": "烈焰马",
+        "pinyin": "Liè Yàn Mǎ",
+        "type": "Creature",
+        "gender": null,
+        "file": 15
+    },
+    {
+        "en": "Profound Heaven Sect",
+        "cn": "玄天宗",
+        "pinyin": "Xuán Tiān Zōng",
+        "type": "Group",
+        "gender": null,
+        "file": 15
     }
 ]

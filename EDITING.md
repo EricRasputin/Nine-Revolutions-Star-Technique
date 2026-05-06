@@ -335,6 +335,7 @@ Common offenders:
 -   **两道身影 / 两道残影** ("two silhouettes," "two afterimages") in mid-action narration → use names or `the two of them` once identities are established for the reader.
 -   **甩几条街** ("thrown several streets behind") → `left miles behind`, `outpaced by a wide margin`. The "streets" / "blocks" image is internet-era Chinese slang that doesn't carry; the English equivalent is "miles."
 -   **铜铃般的双眸** ("eyes like bronze bells") — judgment call. Bronze bells is a culturally-specific image; English equivalents are `saucers`, `dinner plates`. Keep the Chinese image only when the cultural flavor is the point; otherwise prefer the English idiom.
+-   **葫芦里卖什么药** ("what medicine is he selling out of his gourd") → `what he's really up to`, `what he's scheming`. The literal gourd-and-medicine image is opaque to a Western reader and reads as a translated idiom; English drops the picture and uses the bare meaning. Don't try to keep the gourd — "selling out of that gourd of his" reads as visibly translated prose.
 
 The test: would a reader of the English alone, with no Chinese context, find this opening or transition natural? If it reads as poetic-translated rather than poetic-English, restructure. The bar is "stays true to the author's intent" + "easy to read for a Western audience" — both, not either.
 
